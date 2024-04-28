@@ -1,5 +1,7 @@
 const fs = require('node:fs');
 
+console.log("hello guys ");
+
 // TO learn writefile appendfile copyfile rename unlink 
 
 
