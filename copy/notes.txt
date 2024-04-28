@@ -1,0 +1,7 @@
+// node core mai jo install hoke aata hai use kehte hai module 
+// aur jo npm se install karte hai use kehte hai package npm install like package 
+// npm node package manager 
+// nahi pata mujhe or any full form 
+//
+// like text to speech for blind people 
+we can do that by installing the package of text to speech from npm website 
