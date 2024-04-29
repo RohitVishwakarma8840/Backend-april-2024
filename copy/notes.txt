@@ -4,4 +4,32 @@
 // nahi pata mujhe or any full form 
 //
 // like text to speech for blind people 
-we can do that by installing the package of text to speech from npm website 
+we can do that by installing the package of text to speech from npm website so we dont have to build that 
+
+
+How to install any package from npm and uninstall it 
+
+// installing the package 
+npm install packagename for installing it 
+
+// uninstalling the package
+npm uninstall pakagename for uninstalling the package for it . 
+
+
+// How to install any npm package by its version 
+
+for example lets say i want to install accessibility pakage of version 
+
+npm i accessibility@3.0.9
+
+// UNDERSTANDING NODE MODULES
+ you dont need to understand nodu modules 
+
+ // Uuderstanding dependencies 
+ so dependencies=> packages and packages ki dependency ko ham dependency bolte hai 
+
+// DEV Dependencies
+aise packages jo ki sirf developement mai kaam aayenge is known as dev dependencies .. 
+par jab application deploy ho jayega tab hum in dev dependencies ko use 
+nahi kar raho hoge .. 
+
